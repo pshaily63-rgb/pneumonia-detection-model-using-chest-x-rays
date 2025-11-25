@@ -1,5 +1,5 @@
-overview
-Introduction 
+#overview
+
 Pneumonia is a serious lung infection that continues to be a major health 
 concern worldwide, especially in children, older adults, and individuals with 
 weakened immune systems. Early detection plays a vital role in ensuring timely 
@@ -9,7 +9,9 @@ interpreting X-rays manually can be challenging, time-consuming, and
 sometimes inconsistent due to human error or limited availability of 
 experienced radiologists. 
 pneumonia-detection-model.
-Objectives: 
+
+
+#Objectives: 
 The main objectives of this project are: 
  To develop an automated deep-learning model capable of detecting 
 pneumonia from chest X-ray images using the DenseNet121 architecture. 
